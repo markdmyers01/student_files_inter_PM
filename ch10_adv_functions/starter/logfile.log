@@ -1,0 +1,16 @@
+INFO:root:find() called.
+INFO:root:find() called.
+INFO:root:find() called. Arguments: SchoolManager Loyola column=fullname. Return value: [Loyola College in Maryland (Baltimore, MD), Loyola Marymount University (Los Angeles, CA), Loyola University Chicago (Chicago, IL), Loyola University New Orleans (New Orleans, LA)]
+INFO:root:find() called. Arguments: SchoolManager ID column=state sort_by=fullname. Return value: [Albertson College (Caldwell, ID), Boise State University (Boise, ID), Brigham Young University-Idaho (Rexburg, ID), College of Southern Idaho (Twin Falls, ID), Idaho State University (Pocatello, ID), Lewis-Clark State College (Lewiston, ID), North Idaho College (Coeur d'Alene, ID), University of Idaho (Moscow, ID)]
+INFO:root:find() called.
+INFO:root:find() called.
+INFO:root:find() called.
+INFO:root:find() called.
+INFO:root:find() called. Arguments: SchoolManager Loyola column=fullname. Return value: [Loyola College in Maryland (Baltimore, MD), Loyola Marymount University (Los Angeles, CA), Loyola University Chicago (Chicago, IL), Loyola University New Orleans (New Orleans, LA)]
+INFO:root:find() called. Arguments: SchoolManager ID column=state sort_by=fullname. Return value: [Albertson College (Caldwell, ID), Boise State University (Boise, ID), Brigham Young University-Idaho (Rexburg, ID), College of Southern Idaho (Twin Falls, ID), Idaho State University (Pocatello, ID), Lewis-Clark State College (Lewiston, ID), North Idaho College (Coeur d'Alene, ID), University of Idaho (Moscow, ID)]
+INFO:root:find() called.
+INFO:root:find() called.
+INFO:root:find() called.
+INFO:root:find() called.
+INFO:root:find() called. Arguments: SchoolManager Loyola column=fullname. Return value: [Loyola College in Maryland (Baltimore, MD), Loyola Marymount University (Los Angeles, CA), Loyola University Chicago (Chicago, IL), Loyola University New Orleans (New Orleans, LA)]
+INFO:root:find() called. Arguments: SchoolManager ID column=state sort_by=fullname. Return value: [Albertson College (Caldwell, ID), Boise State University (Boise, ID), Brigham Young University-Idaho (Rexburg, ID), College of Southern Idaho (Twin Falls, ID), Idaho State University (Pocatello, ID), Lewis-Clark State College (Lewiston, ID), North Idaho College (Coeur d'Alene, ID), University of Idaho (Moscow, ID)]

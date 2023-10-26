@@ -1,0 +1,16 @@
+DEBUG:root:Logging started.
+DEBUG:root:Logging started.
+INFO:root:Here is ome info
+ERROR:root:An error occurred
+DEBUG:root:Logging started.
+INFO:root:Here is ome info
+ERROR:root:An error occurred
+INFO:root:This is the first message
+DEBUG:root:Logging started.
+INFO:root:Here is ome info
+ERROR:root:An error occurred
+INFO:root:This is the first message
+DEBUG:root:Logging started.
+INFO:root:Here is ome info
+ERROR:root:An error occurred
+INFO:__main__:This is the first message
